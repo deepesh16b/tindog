@@ -138,7 +138,7 @@ p{
   padding: 20px 10px;
   font-size: 1.6rem;
 }
-@media (max-width: 769px)
+@media (max-width: 1000px)
 {
   .iphone{
     position: static;
